@@ -1,1 +1,1 @@
-# Aptitude
+# Quantitative Aptitude and Reasoning
